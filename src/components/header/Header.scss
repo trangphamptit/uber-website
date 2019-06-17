@@ -1,0 +1,16 @@
+header {
+  height: 60px;
+  border-bottom: 1px solid grey;
+  display: flex;
+  justify-content: space-between;
+  top: 0px;
+  left: 0px;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  padding: 10px;
+}
+.fa-bars {
+  color: black;
+  font-size: 30px;
+}
